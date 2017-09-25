@@ -6,12 +6,12 @@
 }
 
 #navbar a {
-  color: tomato;
+  color: aquamarine;
 }
 
 #name {
   margin-right: auto;
-  color: tomato;
+  color: aquamarine;
 }
 
 #profilephoto {
@@ -71,12 +71,30 @@
 
 #goals li {
   display: inline-block;
-  border: 1px solid tomato;
+  border: 1px solid aquamarine;
+  background-color: aquamarine;
+  color: white;
   border-radius: 5px;
   margin: 5px;
   padding: 5px;
 
 }
 
+#socialrow {
+  margin-top: 70px;
+}
+
 #socialicons {
+  margin: auto;
+  text-align: center;
+}
+
+#iconic {
+  text-align: center;
+  text-decoration: none;
+}
+
+.footertxt {
+  margin: auto;
+  margin-top: 20px;
 }
