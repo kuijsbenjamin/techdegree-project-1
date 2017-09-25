@@ -9,6 +9,11 @@
   color: tomato;
 }
 
+#name {
+  margin-right: auto;
+  color: tomato;
+}
+
 #profilephoto {
   height: 200px;
   border-radius: 10px;
@@ -71,4 +76,7 @@
   margin: 5px;
   padding: 5px;
 
+}
+
+#socialicons {
 }
