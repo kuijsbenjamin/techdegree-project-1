@@ -15,12 +15,12 @@
 }
 
 #profilephoto {
-  height: 200px;
+  height: 150px;
   border-radius: 10px;
   filter: grayscale(0.2);
   text-align: center;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 100px;
   margin-bottom: 20px;
 }
 
