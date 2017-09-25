@@ -1,0 +1,74 @@
+#navbar {
+  background-color: white;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#navbar a {
+  color: tomato;
+}
+
+#profilephoto {
+  height: 200px;
+  border-radius: 10px;
+  filter: grayscale(0.2);
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+#introwrapper {
+  background: url('images/gorilla_hand.jpg');
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+}
+
+#introh1 {
+  margin: auto;
+  color: white;
+}
+
+#introh3 {
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#piwrapper {
+  margin-top: 20px;
+}
+
+#backgroundinfo {
+  margin: auto;
+  margin-top: 20px;
+}
+
+#goals {
+  margin-top: 20px;
+}
+
+#goals ul{
+  list-style-type: none;
+  list-style: none;
+  margin: none;
+  display: block;
+  list-style-type: disc;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  -webkit-padding-start: 0;
+}
+
+#goals li {
+  display: inline-block;
+  border: 1px solid tomato;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
+
+}
